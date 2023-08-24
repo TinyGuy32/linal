@@ -14,4 +14,3 @@ void apply_transform(matrix * matA, vector vecA, vector * out);
 #define NULL_MATRIX {{0.0, 0.0}, {0.0, 0.0}}
 
 #endif
-
