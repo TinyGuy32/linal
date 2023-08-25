@@ -52,7 +52,7 @@ To use linal in your programm you will need to import ```linal.h``` and link ```
 if we have a directory that looks like this:
 ```
 main.c
-linal.o
+linal.a
 linal.h
 ```
 and main.c looks like this
